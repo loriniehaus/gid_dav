@@ -6,7 +6,7 @@ test <- pos %>% filter(emergencegroup == "WPV1")
 d1 <- as_date("2019-01-01")
 d2 <- as_date("2020-12-31")
 d3 <- as_date("2022-12-31")
-d4 <- as_date("2024-12-31")
+d4 <- as_date("2025-09-01")
 
 
 

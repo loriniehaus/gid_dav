@@ -1,6 +1,5 @@
 
-# Packages.R
-.libPaths("C:/R/Rlibrary")
+
 
 # PACKAGES function - This will check to see if a package is
 # installed or not - if not, it will install it. if it is, it ignores it
