@@ -1,7 +1,7 @@
 # GID Data and Analytics Task Team
 
 ## Contact 
-Please send a message to Lori Niehaus are tvf1@cdc.gov for any questions or queries. 
+Please send a message to Lori Niehaus at tvf1@cdc.gov for any questions or queries. 
 
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
